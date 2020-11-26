@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"\u0438","comments":{"zero":"0","multiple":"{num}","one":"1"}},"counts":[{"id":"631376","comments":14},{"id":"631292","comments":12},{"id":"631265","comments":69},{"id":"https:\/\/itc.ua\/articles\/reczenziya-na-film-nomeri\/","comments":550},{"id":"https:\/\/itc.ua\/news\/vstupili-v-silu-novye-pdd-svetootrazhayushhie-elementy-dlya-peshehodov-polosa-ot-dlya-velosipedistov-i-remni-bezopasnosti-dlya-vseh-i-vsegda\/","comments":396},{"id":"https:\/\/itc.ua\/news\/novye-macbook-s-arm-proczessorami-apple-m1-okazalis-na-udivlenie-dostatochno-igrovymi\/","comments":471},{"id":"https:\/\/itc.ua\/news\/charli-damelio-pervoj-nabrala-100-mln-podpischikov-v-tiktok-vsego-za-poltora-goda\/","comments":350},{"id":"https:\/\/itc.ua\/news\/xiaomi-predstavila-byudzhetnyj-smartfon-poco-m3-48-mp-kamera-i-batareya-na-6000-ma%c2%b7ch-pri-czene-ot-4299-grn\/","comments":403}]});
+}

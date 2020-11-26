@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"\u0438","comments":{"zero":"0","multiple":"{num}","one":"1"}},"counts":[{"id":"629869","comments":29},{"id":"631187","comments":15},{"id":"625766","comments":298},{"id":"628023","comments":30},{"id":"629668","comments":132},{"id":"631160","comments":26},{"id":"628364","comments":9},{"id":"630385","comments":21},{"id":"630808","comments":7},{"id":"631138","comments":34}]});
+}
